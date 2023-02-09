@@ -1,5 +1,7 @@
 # Mindmap.directory Feature Requests and Issues
 
+# <a href="https://github.com/iamabrom/mindmap.directory-Issues/issues/new/choose">Open a Feature Requests or Issue</a>
+
 ## Purpose of <a href="https://mindmap.directory" target="_blank">MindMap.directory</a>
 MindMap.directory serves as a way to share various mindmaps to help the community learn more about a certain topic
 
